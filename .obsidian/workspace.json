@@ -11,10 +11,14 @@
             "id": "b68a0852f2a67929",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Seth Godins Marketing/Chapter 1/1. Not mass, Not Spam, Not Shameful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Not mass, Not Spam, Not Shameful"
             }
           }
         ]
@@ -151,12 +155,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "52c4028810dcd4a6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,8 +188,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e6fad25d1dc1e3d7",
+  "active": "b68a0852f2a67929",
   "lastOpenFiles": [
+    "Seth Godins Marketing/Chapter 1/Chapter 1.md",
+    "Seth Godins Marketing/This is Marketing/This is marketing.md",
     "CySec Notes/Linux Fundamentals/Linux Networking/3. Remote Desktop Protocols in Linux.md",
     "CySec Notes/3. Remote Desktop Protocols in Linux.md",
     "CySec Notes/2. Remote Desktop Protocols in Linux.md",
@@ -200,8 +216,6 @@
     "Seth Godins Marketing/Chapter 1/9. Case Study - Penguin Magic.md",
     "Seth Godins Marketing/9. Case Study - Penguin Magic.md",
     "Seth Godins Marketing/Case Study - Penguin Magic.md",
-    "Seth Godins Marketing/Case Study.md",
-    "Seth Godins Marketing/Chapter 1/8. Marketing Doesn’t Have to Be Selfish.md",
     "Seth Godins Marketing/This is Marketing",
     "Seth Godins Marketing/Untitled",
     "Seth Godins Marketing/Chapter 1",

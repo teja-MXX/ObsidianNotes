@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0334f6ad96d6c4a",
+            "id": "04228e4a80a43ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Hardening/1. Linux Hardening.md",
+                "file": "Linux Fundamentals/Linux Hardening/4. System Logs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Linux Hardening"
-            }
-          },
-          {
-            "id": "2bab3f6e6368fd61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Hardening/2. Linux Security.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Linux Security"
-            }
-          },
-          {
-            "id": "05c5256cb9ec0188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Hardening/3. Firewall Setup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Firewall Setup"
+              "title": "4. System Logs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux Fundamentals/Linux Hardening/4. System Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 4. System Logs"
             }
           },
           {
@@ -144,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Hardening/3. Firewall Setup.md",
+                "file": "Linux Fundamentals/Linux Hardening/4. System Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Firewall Setup"
+              "title": "Outgoing links from 4. System Logs"
             }
           },
           {
@@ -183,21 +153,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Hardening/3. Firewall Setup.md",
+                "file": "Linux Fundamentals/Linux Hardening/4. System Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Firewall Setup"
+              "title": "Outline of 4. System Logs"
+            }
+          },
+          {
+            "id": "d5959485cd4c2f21",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +190,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "05c5256cb9ec0188",
+  "active": "93ab19f257b0b9b8",
   "lastOpenFiles": [
-    "Linux Hardening/2. Linux Security.md",
-    "Linux Hardening/3. Firewall Setup.md",
-    "Untitled.md",
     "iptables.md",
-    "Linux Hardening/1. Linux Hardening.md",
+    "Linux Fundamentals/Linux Hardening/4. System Logs.md",
     "Linux Fundamentals/Linux Fundamentals.md",
-    "Linux Hardening",
+    "Linux Fundamentals/Linux Hardening/3. Firewall Setup.md",
+    "Linux Fundamentals/Linux Hardening/1. Linux Hardening.md",
+    "Linux Fundamentals/Linux Hardening/2. Linux Security.md",
+    "Linux Fundamentals/Linux Hardening",
     "Linux Fundamentals/System Management/3. Working with Web Services.md",
     "Linux Fundamentals/System Management/4. Backup and Restore.md",
     "Linux Fundamentals/System Management/5. File System Management.md",

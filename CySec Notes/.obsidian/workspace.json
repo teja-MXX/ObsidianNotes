@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,7 +190,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "93ab19f257b0b9b8",
+  "active": "51609471b2b25ae6",
   "lastOpenFiles": [
     "iptables.md",
     "Linux Fundamentals/Linux Hardening/4. System Logs.md",

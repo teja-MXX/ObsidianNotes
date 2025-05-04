@@ -1,3 +1,7 @@
 [[1. The Smallest Viable Market]]
 [[2. What Promise are you making]]
 [[3. Who are you seeking to change]]
+[[4. Worldviews and Personas]]
+[[5. Forcing a focus]]
+[[6. Specific is a kind of bravery]]
+[[7. Shun the nonbelievers]]

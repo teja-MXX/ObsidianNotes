@@ -3,4 +3,6 @@
 [[3. A Million Dollar Bargain]]
 [[4. Thinking about "better"]]
 [[5. Better isn't up to you]]
+[[6. The Marketing of Dog Food]]
+[[7. Early Adopters]]
 

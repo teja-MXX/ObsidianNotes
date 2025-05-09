@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b68a0852f2a67929",
+            "id": "7d58a63a72082bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seth Godins Marketing/Chapter 1/1. Not mass, Not Spam, Not Shameful.md",
+                "file": "Seth Godins Marketing/Checklists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Not mass, Not Spam, Not Shameful"
+              "title": "Checklists"
+            }
+          },
+          {
+            "id": "c120e57b19870226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seth Godins Marketing/Chapter 5/1. In Search of better.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. In Search of better"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,27 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facebook Ads/Facebook Ads.md",
+                "file": "Seth Godins Marketing/Chapter 5/1. In Search of better.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Facebook Ads"
+              "title": "Outline of 1. In Search of better"
             }
           },
           {
-            "id": "e6fad25d1dc1e3d7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "52c4028810dcd4a6",
+            "id": "18620469cde36c1d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -170,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,43 +192,46 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b68a0852f2a67929",
+  "active": "18620469cde36c1d",
   "lastOpenFiles": [
-    "Seth Godins Marketing/Chapter 1/Chapter 1.md",
+    "Seth Godins Marketing/Chapter 5/7. Early Adopters.md",
+    "Seth Godins Marketing/Chapter 1/7. The Lock and The Key.md",
+    "Seth Godins Marketing/Chapter 5/1. In Search of better.md",
+    "Seth Godins Marketing/Chapter 1/6. Shameless Marketers Brought Shame to the Rest of Us.md",
+    "Seth Godins Marketing/Checklists.md",
+    "Seth Godins Marketing/Chapter 1/5. On getting the word out (precisely the wrong question).md",
+    "Seth Godins Marketing/Chapter 1/4. The magic of ads is a trap that keeps us from building a useful story.md",
+    "Seth Godins Marketing/Chapter 1/3. Marketing is not a battle, and it’s not a war, or even a contest.md",
+    "Seth Godins Marketing/Chapter 1/2. The compass points towards trust.md",
+    "Seth Godins Marketing/Chapter 1/1. Not mass, Not Spam, Not Shameful.md",
+    "Seth Godins Marketing/No Followers Checklists.md",
+    "Trigger Feeling Checklist.md",
+    "Seth Godins Marketing/Chapter 5/Chapter 5.md",
+    "Seth Godins Marketing/Chapter 5/5. Better isn't up to you.md",
+    "Seth Godins Marketing/Chapter 5/6. The Marketing of Dog Food.md",
+    "Seth Godins Marketing/Chapter 5/2. Empathy is at the heart of marketing.md",
+    "Seth Godins Marketing/Chapter 5/3. A Million Dollar Bargain.md",
+    "Seth Godins Marketing/Chapter 5/4. Thinking about \"better\".md",
+    "SOC Level 1/1. Cyber Defence Frameworks/4. Cyber Kill Chain.md",
     "Seth Godins Marketing/This is Marketing/This is marketing.md",
-    "CySec Notes/Linux Fundamentals/Linux Networking/3. Remote Desktop Protocols in Linux.md",
-    "CySec Notes/3. Remote Desktop Protocols in Linux.md",
-    "CySec Notes/2. Remote Desktop Protocols in Linux.md",
-    "CySec Notes/2..md",
-    "CySec Notes/Untitled.md",
-    "CySec Notes/Linux Fundamentals/Linux Networking/1. Linux Networking.md",
-    "CySec Notes/Linux Fundamentals/Linux Networking/2. Network Configuration.md",
-    "CySec Notes/Linux Fundamentals/System Management/6. Containerization.md",
-    "CySec Notes/Linux Fundamentals/System Management/5. File System Management.md",
-    "CySec Notes/Linux Fundamentals/System Management/4. Backup and Restore.md",
-    "CySec Notes/Linux Fundamentals/System Management/3. Working with Web Services.md",
-    "CySec Notes/Linux Fundamentals/System Management/1. System Management.md",
-    "CySec Notes/Linux Fundamentals/System Management/2. Network Services.md",
-    "CySec Notes/Linux Fundamentals/System Management/1. Network Services.md",
-    "CySec Notes/Linux Fundamentals/Linux Networking/Network Configuration.md",
-    "CySec Notes/Network Configuration.md",
-    "CySec Notes/Linux Fundamentals/Linux Fundamentals.md",
-    "CySec Notes/Linux Fundamentals/1. Linux Fundamentals.md",
-    "Seth Godins Marketing/INSTAGRAM POSTS.md",
-    "Seth Godins Marketing/POSTERS CREATE.md",
-    "Seth Godins Marketing/Untitled.md",
-    "Seth Godins Marketing/Chapter 1/9. Case Study - Penguin Magic.md",
-    "Seth Godins Marketing/9. Case Study - Penguin Magic.md",
-    "Seth Godins Marketing/Case Study - Penguin Magic.md",
+    "Seth Godins Marketing/Chapter 4/Chapter 4.md",
+    "Seth Godins Marketing/Chapter 4/9. \"Winner takes all\" rarely is.md",
+    "Seth Godins Marketing/Chapter 4/8. Where does love live.md",
+    "Seth Godins Marketing/Chapter 4/7. Shun the nonbelievers.md",
+    "Seth Godins Marketing/Chapter 4/6. Specific is a kind of bravery.md",
+    "Seth Godins Marketing/Chapter 4/5. Forcing a focus.md",
     "Seth Godins Marketing/This is Marketing",
-    "Seth Godins Marketing/Untitled",
+    "Seth Godins Marketing/Chapter 5",
+    "Seth Godins Marketing/Chapter 4",
+    "Seth Godins Marketing/Chapter 3",
+    "Seth Godins Marketing/Chapter 2",
     "Seth Godins Marketing/Chapter 1",
     "Seth Godins Marketing",
-    "Facebook Ads/Facebook Ads/9+-+Top+5+SEO+Tips+for+your+Facebook+Page+-+v4.pdf",
-    "Facebook Ads/Facebook Ads",
-    "Facebook Ads/Untitled",
-    "Facebook Ads/9+-+Top+5+SEO+Tips+for+your+Facebook+Page+-+v4.pdf",
-    "Facebook Ads",
-    "CySec Notes"
+    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain",
+    "Assets/Pasted image 20250508185430.png",
+    "Assets",
+    "Assets/Pasted image 20250508185136.png",
+    "SOC Level 1/1. Cyber Defence Frameworks",
+    "Untitled.canvas"
   ]
 }

@@ -1,11 +1,16 @@
-- [ ] Define your tribe: who exactly are your posters for? (e.g., movie geeks, series lovers, pop culture fans)
-- [ ] Tailor your designs, language, and vibe just for them — not for everyone.
-- [ ] Think: what emotion or memory will this poster trigger for the right person?
-- [ ] Make each poster feel like a conversation, not a billboard.
-- [ ] Write a short personal story or behind-the-scenes post for at least 1 reel this week.
-- [ ] Let followers vote on a poster color scheme or quote this week.
-- [ ] Use storytelling in your product captions to explain what each piece *represents*.
-- [ ] Remember: Each poster isn’t just a product — it’s a vibe, a memory, or a mood people are buying.
-- [ ] Write captions that highlight how a poster connects with your audience's emotions or identity.
-- [ ] Stop chasing trends just for views. Ask: *Does this piece solve a creative or emotional need?
-- [ ] 
+# Pre Design
+- [ ] What poster are you designing ? 
+- [ ] Who exactly are you designing posters for? _____________________________
+- [ ] How can you tailor the design specific to them ?
+- [ ] How can you bring new perspective to it ?
+- [ ] Each poster should have a story — why it exists, what it stands for, what emotion it evokes.
+- [ ] Make each poster *worth discovering* — not just visually cool, but emotionally or culturally relevant.
+- [ ] How to Let followers feel like they’re part of a club or inside joke.
+
+
+
+
+
+# Post Design
+- [ ] Write a short personal story for the post or behind-the-scenes reel
+- [ ] Try to offer a free value out of this - behind-the-scenes videos, design tips, funny reels.

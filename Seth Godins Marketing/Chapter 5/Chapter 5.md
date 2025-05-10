@@ -5,4 +5,7 @@
 [[5. Better isn't up to you]]
 [[6. The Marketing of Dog Food]]
 [[7. Early Adopters]]
-
+[[8. An aside about the reptile people who are secretly running things]]
+[[9. Humility and Curiosity]]
+[[10.Case Study -Be More Chill]]
+[[11. It's Time]]

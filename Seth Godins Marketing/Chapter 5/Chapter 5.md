@@ -9,3 +9,7 @@
 [[9. Humility and Curiosity]]
 [[10.Case Study -Be More Chill]]
 [[11. It's Time]]
+[[12. Too many choices]]
+[[13. Positioning as a service]]
+[[14. Choose your axes, choose your future]]
+[[15. So many choices]]

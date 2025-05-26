@@ -13,3 +13,8 @@
 [[13. Positioning as a service]]
 [[14. Choose your axes, choose your future]]
 [[15. So many choices]]
+[[16. People are waiting for you]]
+[[17. Your freedom]]
+[[18. The freedom of better]]
+[[19. One last thing about Sonder]]
+

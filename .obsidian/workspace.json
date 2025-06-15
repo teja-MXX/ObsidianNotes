@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "55868a4cf34caceb",
+        "id": "0438b188a065900b",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3caf4c003456dd",
+            "id": "90cb940a78461744",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b28bbcdd222851ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/3. Network Security and Traffic Analysis/5. TShark - CLI Wireshark Features.md",
+                "file": "Topics/Topics Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topics Index"
+            }
+          },
+          {
+            "id": "4c9ac29787786f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. TShark - CLI Wireshark Features"
+              "title": "3. Core Windows Processes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habit Tracker.md",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Habit Tracker"
+              "title": "Backlinks for 3. Core Windows Processes"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habit Tracker.md",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Habit Tracker"
+              "title": "Outgoing links from 3. Core Windows Processes"
             }
           },
           {
@@ -128,7 +153,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC Level 1/3. Network Security and Traffic Analysis/5. TShark - CLI Wireshark Features.md",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. TShark - CLI Wireshark Features"
+              "title": "Outline of 3. Core Windows Processes"
             }
           },
           {
@@ -177,24 +204,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ef3caf4c003456dd",
+  "active": "4c9ac29787786f6d",
   "lastOpenFiles": [
-    "SOC Level 1/3. Network Security and Traffic Analysis/4. TShark - The Basics.md",
-    "SOC Level 1/3. Network Security and Traffic Analysis/5. TShark - CLI Wireshark Features.md",
-    "SOC Level 1/SOC Level 1.md",
-    "SOC Level 1/3. Network Security and Traffic Analysis/3. Wireshark Traffic Analysis.md",
-    "Assets/Pasted image 20250611112836.png",
-    "Assets/Pasted image 20250611112048.png",
+    "Assets/Pasted image 20250615153313.png",
+    "Assets/Pasted image 20250615153301.png",
+    "Topics/WININIT - Windows Initialization.md",
+    "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
+    "Topics/Topics Index.md",
+    "SOC Level 1/4. Endpoint Security Monitoring/2. Intro to Endpoint Security.md",
     "SOC Level 1/3. Network Security and Traffic Analysis/1. Network Security and Traffic Analysis.md",
-    "Assets/Pasted image 20250611111448.png",
-    "Assets/Pasted image 20250611110848.png",
-    "Pasted image 20250611111425.png",
-    "Assets/Pasted image 20250611110656.png",
-    "Assets/Pasted image 20250611110616.png",
-    "Assets/Pasted image 20250611110217.png",
+    "Topics/CSRSS - Client Server Runtime Subsystem.md",
+    "Assets/Pasted image 20250615134939.png",
+    "Assets/Pasted image 20250615134930.png",
+    "CSRSS - Client Server Runtime Subsystem.md",
+    "Topics/User Mode vs Kernel Mode.md",
+    "Topics/SMSS - Session Manager Subsystem.md",
+    "Assets/Pasted image 20250615132110.png",
+    "Assets/Pasted image 20250615132121.png",
+    "Assets/Pasted image 20250615132213.png",
+    "Assets/Pasted image 20250615132017.png",
+    "Pasted image 20250615132018.png",
+    "Assets/Pasted image 20250615132007.png",
+    "Untitled.canvas",
+    "SOC Level 1/SOC Level 1.md",
+    "Topics",
+    "SOC Level 1/4. Endpoint Security Monitoring/1. Endpoint Security Monitoring.md",
+    "Assets/Pasted image 20250615103459.png",
+    "SOC Level 1/4. Endpoint Security Monitoring",
+    "SOC Level 1/3. Network Security and Traffic Analysis/5. TShark - CLI Wireshark Features.md",
+    "2025-06-13.md",
+    "SOC Level 1/3. Network Security and Traffic Analysis/4. TShark - The Basics.md",
     "SOC Level 1/3. Network Security and Traffic Analysis/2. Traffic Analysis Essentials.md",
-    "Assets/Pasted image 20250608122717.png",
-    "Assets/Pasted image 20250608122618.png",
+    "SOC Level 1/2. Cyber Threat Intelligence/2. Intro to Cyber Threat Intelligence.md",
+    "SOC Level 1/3. Network Security and Traffic Analysis/3. Wireshark Traffic Analysis.md",
     "Seth Godins Marketing/Chapter 6/5. When you know what you stand for, you don’t need to compete.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.8. Practicals.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.7. TTPs.md",
@@ -203,17 +245,6 @@
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.4. Host Artifacts.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.3. Domain Names.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.2. IP Addresses.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.1. Hashes.md",
-    "SOC Level 1/2. Cyber Threat Intelligence/5. MISP.md",
-    "SOC Level 1/2. Cyber Threat Intelligence/4. Yara.md",
-    "SOC Level 1/2. Cyber Threat Intelligence/3. Threat Intelligence Tools.md",
-    "SOC Level 1/2. Cyber Threat Intelligence/2. Intro to Cyber Threat Intelligence.md",
-    "SOC Level 1/2. Cyber Threat Intelligence/1. Cyber Threat Intelligence.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/7. MITRE.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/6. Diamond Model.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/5. Unified Kill Chain.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/4. Cyber Kill Chain.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain",
     "SOC Level 1/3. Network Security and Traffic Analysis",
     "SOC Level 1/2. Cyber Threat Intelligence",
@@ -221,9 +252,6 @@
     "SOC Level 1",
     "Assets",
     "Seth Godins Marketing/Chapter 6",
-    "Seth Godins Marketing/This is Marketing",
-    "Seth Godins Marketing/Chapter 5",
-    "Seth Godins Marketing/Chapter 4",
-    "Untitled.canvas"
+    "Seth Godins Marketing/This is Marketing"
   ]
 }

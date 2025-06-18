@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "b28bbcdd222851ce",
+            "id": "d4be48a29b45a58d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Topics Index.md",
-                "mode": "source",
+                "file": "Topics/EXPLORER - Windows Explorer.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topics Index"
+              "title": "EXPLORER - Windows Explorer"
             }
           },
           {
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
-                "mode": "preview",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/4. Sysinternals.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Core Windows Processes"
+              "title": "4. Sysinternals"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/4. Sysinternals.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Core Windows Processes"
+              "title": "Outline of 4. Sysinternals"
             }
           },
           {
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,32 +204,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4c9ac29787786f6d",
+  "active": "18620469cde36c1d",
   "lastOpenFiles": [
-    "Assets/Pasted image 20250615153313.png",
-    "Assets/Pasted image 20250615153301.png",
-    "Topics/WININIT - Windows Initialization.md",
+    "SOC Level 1/4. Endpoint Security Monitoring/1. Endpoint Security Monitoring.md",
+    "SOC Level 1/4. Endpoint Security Monitoring/4. Sysinternals.md",
+    "SOC Level 1/SOC Level 1.md",
     "SOC Level 1/4. Endpoint Security Monitoring/3. Core Windows Processes.md",
+    "Topics/WINLOGON - Windows Logon.md",
+    "Assets/Pasted image 20250617125444.png",
     "Topics/Topics Index.md",
+    "Topics/EXPLORER - Windows Explorer.md",
+    "Assets/Pasted image 20250617125432.png",
+    "Assets/Pasted image 20250617125216.png",
+    "Assets/Pasted image 20250617125208.png",
+    "Assets/Pasted image 20250617125154.png",
+    "Assets/Pasted image 20250617125144.png",
+    "Topics/LSASS - Local Security Authority Subsystem Service.md",
+    "Topics/SVCHost - Service Host.md",
+    "Assets/Pasted image 20250617123354.png",
+    "Assets/Pasted image 20250617123346.png",
+    "Topics/SCM - Service Control Manager.md",
+    "Topics/WININIT - Windows Initialization.md",
+    "Assets/Pasted image 20250617122218.png",
+    "Assets/Pasted image 20250617122206.png",
     "SOC Level 1/4. Endpoint Security Monitoring/2. Intro to Endpoint Security.md",
     "SOC Level 1/3. Network Security and Traffic Analysis/1. Network Security and Traffic Analysis.md",
     "Topics/CSRSS - Client Server Runtime Subsystem.md",
-    "Assets/Pasted image 20250615134939.png",
-    "Assets/Pasted image 20250615134930.png",
     "CSRSS - Client Server Runtime Subsystem.md",
     "Topics/User Mode vs Kernel Mode.md",
     "Topics/SMSS - Session Manager Subsystem.md",
-    "Assets/Pasted image 20250615132110.png",
-    "Assets/Pasted image 20250615132121.png",
-    "Assets/Pasted image 20250615132213.png",
-    "Assets/Pasted image 20250615132017.png",
-    "Pasted image 20250615132018.png",
-    "Assets/Pasted image 20250615132007.png",
     "Untitled.canvas",
-    "SOC Level 1/SOC Level 1.md",
     "Topics",
-    "SOC Level 1/4. Endpoint Security Monitoring/1. Endpoint Security Monitoring.md",
-    "Assets/Pasted image 20250615103459.png",
     "SOC Level 1/4. Endpoint Security Monitoring",
     "SOC Level 1/3. Network Security and Traffic Analysis/5. TShark - CLI Wireshark Features.md",
     "2025-06-13.md",
@@ -240,11 +245,6 @@
     "Seth Godins Marketing/Chapter 6/5. When you know what you stand for, you don’t need to compete.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.8. Practicals.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.7. TTPs.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.6. Tools.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.5. Network Artifacts.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.4. Host Artifacts.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.3. Domain Names.md",
-    "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain/3.2. IP Addresses.md",
     "SOC Level 1/1. Cyber Defence Frameworks/3. Pyramid of Pain",
     "SOC Level 1/3. Network Security and Traffic Analysis",
     "SOC Level 1/2. Cyber Threat Intelligence",

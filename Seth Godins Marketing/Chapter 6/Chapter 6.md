@@ -9,6 +9,10 @@
 [[9. And we serve coffee]]
 [[10. The authentic, vulnerable hero]]
 [[11. Service]]
+[[12. Authenticity versus emotional labor]]
+[[13. Who's talking]]
+
+
 
 
 

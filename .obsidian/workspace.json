@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/4. Endpoint Security Monitoring/4. Windows Event Logs.md",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/5. Sysmon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Windows Event Logs"
+              "title": "5. Sysmon"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC Level 1/4. Endpoint Security Monitoring/4. Windows Event Logs.md",
+                "file": "SOC Level 1/4. Endpoint Security Monitoring/5. Sysmon.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Windows Event Logs"
+              "title": "Outline of 5. Sysmon"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

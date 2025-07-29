@@ -1,8 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#Linux",
-      ""
+      "#flashcards"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
